@@ -1,0 +1,1 @@
+This is the README.txt for my GitHub Practice on Codecademy.
